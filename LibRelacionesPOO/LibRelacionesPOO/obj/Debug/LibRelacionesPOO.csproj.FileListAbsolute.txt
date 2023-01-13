@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibRelacionesPOO\LibRelacionesPOO\bin\Debug\LibRelacionesPOO.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibRelacionesPOO\LibRelacionesPOO\bin\Debug\LibRelacionesPOO.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibRelacionesPOO\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibRelacionesPOO\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibRelacionesPOO\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibRelacionesPOO\LibRelacionesPOO\obj\Debug\LibRelacionesPOO.pdb
